@@ -1,0 +1,15 @@
+attempt_id,asset_id,completed_at,status,codec,kbps,duration_sec,checksum_sha256
+TX-001,ARC-101,2026-09-18T09:00:00Z,complete,flac,920,119,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+TX-002,ARC-101,2026-09-19T10:00:00Z,complete,flac,910,121,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+TX-003,ARC-102,2026-09-20T11:00:00Z,complete,mp3,320,300,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+TX-004,ARC-102,2026-09-21T12:00:00Z,failed,flac,900,300,
+TX-005,ARC-103,2026-09-22T13:00:00Z,complete,wav,1500,65,dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+TX-006,ARC-103,2026-09-23T14:00:00Z,complete,wav,1450,61,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+TX-007,ARC-104,2026-09-24T15:00:00Z,complete,flac,950,45,NOT-A-CHECKSUM
+TX-008,ARC-104,2026-09-25T16:00:00Z,complete,flac,880,45,ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+TX-009,ARC-105,2026-09-26T17:00:00Z,failed,wav,1500,180,
+TX-010,ARC-106,2026-09-27T18:00:00Z,complete,flac,860,89,9999999999999999999999999999999999999999999999999999999999999999
+TX-011,ARC-999,2026-09-28T19:00:00Z,complete,flac,900,30,1111111111111111111111111111111111111111111111111111111111111111
+TX-012,ARC-105,2026-09-29T20:00:00Z,complete,wav,1500,180,2222222222222222222222222222222222222222222222222222222222222222
+TX-012,ARC-105,2026-09-30T20:00:00Z,complete,wav,1500,180,3333333333333333333333333333333333333333333333333333333333333333
+TX-013,ARC-106,2026/09/30 21:00,complete,flac,870,90,4444444444444444444444444444444444444444444444444444444444444444
