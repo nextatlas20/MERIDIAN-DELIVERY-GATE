@@ -1,0 +1,4 @@
+asset_id,collection,attempt_id,completed_at,codec,kbps,duration_sec,checksum_sha256
+ARC-101,Marsh Field Calls,TX-002,2026-09-19T10:00:00Z,flac,910,121,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ARC-103,Northline Radio,TX-006,2026-09-23T14:00:00Z,wav,1450,61,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ARC-106,Harbor Oral Histories,TX-010,2026-09-27T18:00:00Z,flac,860,89,9999999999999999999999999999999999999999999999999999999999999999
