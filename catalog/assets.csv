@@ -1,0 +1,7 @@
+asset_id,collection,duration_sec,required_codec,min_kbps
+ARC-101,Marsh Field Calls,120,flac,900
+ARC-102,Harbor Oral Histories,300,flac,850
+ARC-103,Northline Radio,60,wav,1400
+ARC-104,Marsh Field Calls,45,flac,900
+ARC-105,Northline Radio,180,wav,1400
+ARC-106,Harbor Oral Histories,90,flac,850
